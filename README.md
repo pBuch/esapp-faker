@@ -6,7 +6,7 @@ simulation trainings.
 Written using [Svelte, Svelte Kit](https://svelte.dev/), [Skeleton-UI](https://www.skeleton.dev/)
 and [Lucide](https://lucide.dev/).
 
-Deployed on Github pages:
+Deployed on Github pages: https://pbuch.github.io/esapp-faker/
 
 ## Features
 
